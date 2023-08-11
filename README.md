@@ -28,7 +28,11 @@ Boost Bot is connected to a discord bot and uses commands and buttons to boost s
 
 ## Frequently Asked Questions
 
-**3) Why does the program automatically close after opening?**
-> *If Phoenix Nuker automatically closes after opening, you may need to install .NET Runtime:*
-<details>
+**1) Why does the program automatically close after opening?**
+> *If My Boost Tool automatically closes after opening, you may need to run it with a vpn*
 
+## Requirements 
+
+Discord Nitro Tokens are required in order to boost your discord server
+
+You can buy tokens from me at [klx.rip/discord](https://discord.gg/MPNGVCymqz)
