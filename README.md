@@ -6,7 +6,7 @@
 
 ---
 
-[!] [Purchase Key](https://klx.rip)
+[[!] Purchase Key](https://klx.rip)
 ---
 ### What is the difference between Boost Bot and Boost Tool
 
