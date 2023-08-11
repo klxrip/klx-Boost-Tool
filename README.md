@@ -8,9 +8,9 @@
 
 [!] [Purchase Key](https://klx.rip)
 ---
-### What is the difference between Phoenix, Phoenix Lite, and Arsenic?
+### What is the difference between Boost Bot and Boost Tool
 
-Phoenix is a feature-rich nuking tool that offers a wide range of capabilities. However, it may be slow. Phoenix Lite is fast but supports only bot tokens and has limited features. It is designed to quickly execute specific actions for server nuking purposes. Arsenic offers flexible token checking but has limited nuking capabilities.
+Boost Bot is connected to a discord bot and uses commands and buttons to boost servers and as a result offers less customization to your tokens. Boost tool has bio change token check and is an over better pick over the bot. The prices are also something to look at. Boost Tool is cheaper
 
 ---
 
