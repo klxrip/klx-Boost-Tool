@@ -15,20 +15,10 @@ Boost Bot is connected to a discord bot and uses commands and buttons to boost s
 ---
 
 <details>
-<summary></summary>
-<img src="https://i.imgur.com/gYP8py9.png" alt="Screenshot of Phoenix Nuker">
-</details>
-
-<details>
-<summary>Phoenix Lite Preview</summary>
-<img src="https://i.imgur.com/ZRYrqnO.png" alt="Screenshot of Phoenix Lite">
-<img src="https://i.imgur.com/3nlEJn4.png" alt="Screenshot of Phoenix Lite">
-</details>
-
-<details>
-<summary>Arsenic Preview</summary>
-<img src="https://i.imgur.com/E2uzSyi.png" alt="Screenshot of Arsenic">
-<img src="https://i.imgur.com/0JXVICS.png" alt="Screenshot of Arsenic">
+<summary>Boost Tool Preview</summary>
+<text src ="Advanced Key System">
+<img src="">
+<img src="">
 </details>
 
 ---
