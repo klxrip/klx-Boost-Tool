@@ -1,4 +1,5 @@
 # Boost Tool
+
 ---
 
 [+] [ Purchase Key](https://klx.rip)
