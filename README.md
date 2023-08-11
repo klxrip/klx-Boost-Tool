@@ -16,7 +16,7 @@ Boost Bot is connected to a discord bot and uses commands and buttons to boost s
 
 <details>
 <summary>Boost Tool Preview</summary>
-<text src="Advanced UI">
+Advanced UI
 <img src="https://github.com/klxrip/klx-Boost-Tool/assets/137589140/49308481-0e66-428b-baaa-6b7f31f3168e">
 <img src="">
 </details>
