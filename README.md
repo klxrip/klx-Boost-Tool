@@ -1,9 +1,4 @@
-# Phoenix Nuker
-
-[![Stars](https://img.shields.io/github/stars/extatent/Phoenix-Nuker?label=Stars&style=for-the-badge)](https://github.com/extatent/Phoenix-Nuker/stargazers)
-[![Forks](https://img.shields.io/github/forks/extatent/Phoenix-Nuker?label=Forks&style=for-the-badge)](https://github.com/extatent/Phoenix-Nuker/network/members)
-[![License](https://img.shields.io/github/license/extatent/Phoenix-Nuker?style=for-the-badge)](https://github.com/extatent/Phoenix-Nuker/blob/main/LICENSE)
-
+# Boost Tool
 ---
 
 [+] [ Purchase Key](https://klx.rip)
