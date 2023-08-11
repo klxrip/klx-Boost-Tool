@@ -11,7 +11,7 @@ Boost Bot is connected to a discord bot and uses commands and buttons to boost s
 
 <details>
 <summary>Boost Tool Preview</summary>
-                          Preview Below
+                            Preview Below
 <img src="https://github.com/klxrip/klx-Boost-Tool/assets/137589140/49308481-0e66-428b-baaa-6b7f31f3168e">
 </details>
 
@@ -32,4 +32,3 @@ Boost Bot is connected to a discord bot and uses commands and buttons to boost s
 > *If Phoenix Nuker automatically closes after opening, you may need to install .NET Runtime:*
 <details>
 
-</details
